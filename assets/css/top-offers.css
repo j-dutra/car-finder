@@ -61,7 +61,7 @@
 }
 
 /* car-card/vertical */
-.top-offers .card-vertical-right {
+.top-offers .card-vertical-left {
     width: 63.6rem;
     height: 50.2rem;
 
@@ -71,8 +71,12 @@
     box-shadow: 0px 2px 8px -4px rgba(31, 27, 45, 0.12), 0px 4px 16px rgba(31, 27, 45, 0.12);
 }
 
+.top-offers .card-vertical-left img {
+    border-radius: 1.2rem 1.2rem 0 0;
+}
+
 /* cards-left*/
-.top-offers .cards-left {
+.top-offers .cards-right {
     width: 63.6rem;
 
     display: flex;
@@ -84,19 +88,18 @@
 }
 
 /* card-horizontal-up */
-.top-offers .cards-left .card-horizontal-up {
+.card-horizontal-up {
     width: 63.6rem;
     height: 23.9rem;
 
     border-radius: 1.2rem;
     background: rgba(255, 255, 255, 0.04);
-    border: 1px solid rgba(255, 255, 255, 0.15);
 
     box-shadow: 0px 4px 12px -6px rgba(31, 27, 45, 0.2), 0px 8px 16px rgba(31, 27, 45, 0.16);
 }
 
 /* card-horizontal-down */
-.top-offers .cards-left .card-horizontal-down {
+.card-horizontal-down {
     width: 636px;
     height: 239px;
 
@@ -104,5 +107,9 @@
     background: rgba(255, 255, 255, 0.04);
 
     box-shadow: 0px 4px 12px -6px rgba(31, 27, 45, 0.2), 0px 8px 16px rgba(31, 27, 45, 0.16);
+}
+
+.card-horizontal-hover:hover {
+    border: 1px solid rgba(255, 255, 255, 0.15);
 }
 

@@ -68,9 +68,13 @@
     text-align: center;
 }
 
-a {
+.car-lines div a {
     width: 24.0rem;
     height: 16.0rem;
     text-align: center;
     border-radius: 1.2rem;
+}
+
+.car-lines div a:hover {
+    background: rgba(255, 255, 255, 0.04);
 }
