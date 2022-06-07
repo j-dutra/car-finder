@@ -76,7 +76,6 @@ nav .right {
 
 /* log-in */
 nav .right a {
-
     display: flex;
     align-items: center;
     gap: 4px;
@@ -87,13 +86,17 @@ nav .right a {
     opacity: 0.7;
 }
 
+nav .right a:hover {
+    background: rgba(255, 255, 255, 0.04);
+    opacity: 1.0;
+}
+
 /* btn */
 nav .right button {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 8px 20px;
-    gap: 10px;
 
     width: 11.0rem;
     height: 3.6rem;
@@ -101,4 +104,8 @@ nav .right button {
     /* primary */
     background: #FD5631;
     border-radius: 8px;
+}
+
+nav .right button:hover {
+    opacity: 0.4;
 }

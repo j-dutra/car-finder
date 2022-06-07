@@ -112,6 +112,11 @@ header .input-group #submit {
     height: 5.2rem;
     background: #FD5631;
     border-radius: .8rem;
+    opacity: 1;
+}
+
+header .input-group #submit:hover {
+    opacity: 0.4;
 }
 
 
