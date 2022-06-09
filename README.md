@@ -3,9 +3,11 @@
 
 Em produção .......
 
-<a href="https://glittering-genie-9ea1a6.netlify.app/" target="_blank">
+<div>
+  <a href="https://glittering-genie-9ea1a6.netlify.app/" target="_blank">
   
-<a href="https://car-finder-j-dutra.vercel.app/" target="_blank">
+  <a href="https://car-finder-j-dutra.vercel.app/" target="_blank">
+</div>
 
 Car Finder, um projeto acadêmico que está sendo executado no programa Acelerra iCarros, um iniciativa de aceleração de carreira
 promovida pela Icarros (Itaú-Unibanco), em parceria com a Gama Academy.
