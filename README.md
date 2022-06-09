@@ -3,6 +3,7 @@
 
 Em produção .......
 
+https://glittering-genie-9ea1a6.netlify.app/
 https://car-finder-j-dutra.vercel.app/
 
 Car Finder, um projeto acadêmico que está sendo executado no programa Acelerra iCarros, um iniciativa de aceleração de carreira
