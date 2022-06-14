@@ -87,6 +87,10 @@
     border-radius: 1.2rem;
 }
 
+.top-offers .cards-right img {
+    border-radius: .8rem  0 0 .8rem;
+}
+
 /* card-horizontal-up */
 .card-horizontal-up {
     width: 63.6rem;
